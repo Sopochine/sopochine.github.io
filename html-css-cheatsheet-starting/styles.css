@@ -1,0 +1,35 @@
+body{
+	background-color: Azure;
+	font-family: Arial;
+}
+
+h1, h2 {
+	text-align: center;
+	color: #663399;
+}
+
+table {
+	width: 700px;
+	margin: auto;
+}
+
+thead {
+	background-color: #D3D3D3;
+}
+
+table, tr, td, th {
+	border-color: black;
+	border: 1px solid;
+	border: 1px solid;
+	border-collapse: collapse;
+}
+
+th {
+	color: #008000;
+}
+
+.tg {
+	background: white;
+	font-family: monospace;
+}
+
